@@ -9,5 +9,6 @@
   },
   "keywords": ["npm","plugin","develop","publish"],
   "author": "DanDahl 1662285571@qq.com",
-  "license": "MIT"
+  "license": "MIT",
+  "aaa":"fffff"
 }
